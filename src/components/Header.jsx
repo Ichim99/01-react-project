@@ -15,5 +15,5 @@ export default function Header() {
             <h1>React Essentials</h1>
             <p>{description} Fundamental React concepts you will need for almost any app you are going to build!</p>
         </header>
-    )
+    );
 }
